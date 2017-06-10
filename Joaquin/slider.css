@@ -1,0 +1,28 @@
+#particles-js{
+	background: url(IMAGENES/keyboard.jpg);
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
+}
+.ancho-letras{
+	top: 250px;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	z-index: 1;
+}
+.letras-slider{
+	width: 80%;
+	margin: auto;
+}
+.letras-slider h1{
+	color: #fff;
+	font-family: rale;
+	font-size: 60px;
+}
+.letras-slider p{
+	color: #fff;
+	font-size: 25px;
+	font-family: rale;
+	padding-top: 50px;
+}
