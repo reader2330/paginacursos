@@ -1,0 +1,134 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	width: 100%;
+	background: #1F9EEE;
+	height: 70px;
+	position: fixed;
+	z-index: 10;
+}
+.ancho{
+	width: 80%;
+	height: 70px;
+	background: #1F9EEE;
+	margin: auto;
+}
+.logo{
+	width: 30%;
+	height: 70px;
+	background: #1F9EEE;
+	float: left;
+	padding-top: 10px;
+	box-sizing:border-box;
+}
+.logo p a{
+	color: #fff;
+	font-size: 36px;
+	text-decoration: none;
+	font-family: rale;
+}
+nav{
+	width: 70p%;
+	height: 70px;
+	background: #1F9EEE;
+	float: right;
+	padding-top: 24px;
+	box-sizing:border-box;
+}
+nav ul li{
+	display: inline;
+}
+nav ul li a{
+	color: #fff;
+	font-size: 13px;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-left: 20px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	font-family: rale;
+}
+@font-face{
+	font-family: rale;	
+	src: url(../FUENTES/Raleway-Regular.ttf);
+} 
+
+@import url('https://fonts.googleapis.com/css?family=Jura');
+*{
+	box-sizing: border-box;
+}
+h1, h2, h4, h5, h6{
+	text-transform: uppercase;
+	color: #444;
+	font-family: rale;
+	letter-spacing: 1px;
+}
+h2{
+	font-size: 30px;
+	color: #333;
+}
+h3 {
+	font-family: 'Jura', sans-serif;
+	font-size: 20px;
+	line-height: 1.5;
+	padding-top: 20px;
+	font-weight: normal;
+	color: #777;
+}
+h4{
+	margin-top: 15px;
+	font-size: 50px;
+	text-align: center;
+}
+h5{
+	font-fami: 'Jura', sans-serif;
+	line-height: 1.5;
+	font-weight: normal;
+	padding: 10px 0;
+	font-size: 12px;
+}
+p{
+	color: #888;
+	font-family: 'Jura', sans-serif;
+	font-size: 25px;
+	text-align: justify;
+}
+ul li{
+	color: #888;
+	font-family: 'Jura', sans-serif;
+	font-size: 25px;
+	text-align: justify;
+}
+.wap{
+	width: 90%;
+	margin: auto;
+}
+.bienvenidos{
+	margin-top: 50px;
+	text-align: center;
+}
+.contenedor-columnas{
+	width: 100%;
+	margin: auto;
+	margin-bottom: 50px;
+}
+.columnax1{
+	width: 55%;
+	float: center;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	margin: auto;
+}
+.columnax1 img{
+	width: 100%;
+}
+.columnax1 i{
+	float: left;
+	padding-right: 20px;
+	color: #444;
+}
+.columnax1 h4{
+	padding-bottom: 15px;
+}

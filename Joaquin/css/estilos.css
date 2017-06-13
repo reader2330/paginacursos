@@ -15,11 +15,6 @@ header{
 	background: #1F9EEE;
 	margin: auto;
 }
-
-#logo1{
-	background: url("../IMAGENES/logopc2.png");
-	background-repeat: no-repeat;
-}
 .logo{
 	width: 30%;
 	height: 70px;
@@ -32,7 +27,7 @@ header{
 	color: #fff;
 	font-size: 36px;
 	text-decoration: none;
-	font-family: Raleway-Regular;
+	font-family: rale;
 }
 nav{
 	width: 70%;

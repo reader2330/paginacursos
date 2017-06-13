@@ -16,19 +16,40 @@ header{
 	margin: auto;
 }
 .logo{
-	width: 30px;
+	width: 30%;
 	height: 70px;
 	background: #1F9EEE;
 	float: left;
 	padding-top: 10px;
-	box-sizing: border-box;
+	box-sizing:border-box;
 }
 .logo p a{
 	color: #fff;
 	font-size: 36px;
 	text-decoration: none;
 	font-family: rale;
-
+}
+nav{
+	width: 70p%;
+	height: 70px;
+	background: #1F9EEE;
+	float: right;
+	padding-top: 24px;
+	box-sizing:border-box;
+}
+nav ul li{
+	display: inline;
+}
+nav ul li a{
+	color: #fff;
+	font-size: 13px;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-left: 20px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	font-family: rale;
+}
 @font-face{
 	font-family: rale;	
 	src: url(../FUENTES/Raleway-Regular.ttf);
