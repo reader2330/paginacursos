@@ -16,3 +16,39 @@
 	background: #3b5998;
 	padding: 10px 50px;
 }
+#mail a{
+	background: #dd4b39;
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+	width: 55px;
+	transition: all .4s ease;
+}
+#mail a:hover{
+	background: #dd4b39;
+	padding: 10px 50px;
+}
+#twitter a{
+	background: #1dcaff;
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+	width: 55px;
+	transition: all .4s ease;
+}
+#twitter a:hover{
+	background: #1dcaff;
+	padding: 10px 50px;
+}
+#youtube a{
+	background: #bb0000;
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+	width: 55px;
+	transition: all .4s ease;
+}
+#youtube a:hover{
+	background: #bb0000;
+	padding: 10px 50px;
+}
