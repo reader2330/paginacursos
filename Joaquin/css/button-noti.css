@@ -12,13 +12,3 @@
 	font-family: rale;	
 	src: url(../FUENTES/Raleway-Regular.ttf);
 } 
-.button2 a{
-	background-color: red;
-	border-radius: 5px;
-	display: inline-block;
-	position: relative;
-	padding: 8px 25px;
-	color: #fff;
-	font-family: rale;
-	text-decoration: none;
-}
