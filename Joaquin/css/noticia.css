@@ -60,7 +60,6 @@ nav ul li a{
 	box-sizing: border-box;
 }
 h1, h2, h4, h5, h6{
-	text-transform: uppercase;
 	color: #444;
 	font-family: rale;
 	letter-spacing: 1px;
