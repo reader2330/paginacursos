@@ -1,0 +1,51 @@
+*{
+	box-sizing: border-box;
+}
+
+h1, h2, h4, h5, h6{
+	text-transform: uppercase;
+	color: #444;
+	font-family: rale;
+	letter-spacing: 1px;
+}
+
+
+.contene{
+	display: flex;
+	flex-wrap: wrap;
+	height: 2000px;
+	justify-content: center;
+
+
+}
+
+.noticia{
+	flex: 0 1 75%;
+	justify-content:center;
+
+}
+
+.noticia img{
+	width: 100%;
+}
+
+.relacion{
+
+	margin-top: 200px;
+
+}
+
+.pie{
+
+	margin-top: 3000px;
+}
+
+	.relacion img{
+	width: 100%;
+}
+
+
+
+
+
+
