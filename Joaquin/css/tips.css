@@ -50,11 +50,13 @@ nav ul li a{
 	letter-spacing: 1px;
 	font-family: rale;
 }
+.columnax3 p{
+	text-align: justify;
+}
 @font-face{
 	font-family: rale;	
 	src: url(../FUENTES/Raleway-Regular.ttf);
 } 
-
 @import url('https://fonts.googleapis.com/css?family=Jura');
 *{
 	box-sizing: border-box;
@@ -82,7 +84,7 @@ h4{
 	text-align: center;
 }
 h5{
-	font-family:  'Jura', sans-serif;
+	font-fami: 'Jura', sans-serif;
 	line-height: 1.5;
 	font-weight: normal;
 	padding: 10px 0;
