@@ -1,0 +1,27 @@
+.relacion{
+
+	margin-top: 3600px;
+
+}
+
+	 hr{
+		height: 30px;
+
+		background: black;
+		width: 100%;
+
+	}
+
+.pie{
+
+	margin-top: 500px;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+
+	color:gray;
+}

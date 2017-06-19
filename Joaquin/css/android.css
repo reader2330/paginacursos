@@ -98,11 +98,10 @@ nav ul li a:hover{
 }
 
 .ultimos{
-	flex: 1 1 70%;
-	background: green;
-	display: flex;
+	flex: 1 1 100%;
 
-	flex-wrap: wrap;
+	display: flex;
+	flex-wrap: nowrap;
 	justify-content: space-around;
 	align-items: stretch;
 }
@@ -113,20 +112,20 @@ nav ul li a:hover{
 }
 
 .noticia1{
-	flex: 1 1 auto;
-	background: red;
+	flex: 0 1 33%;
+	
 	height: 500px;
 }
 
 .noticia2{
-	flex: 1 1 auto;
-	background: black;
+	flex: 0 1 33%;
+
 	height: 500px;
 }
 
 .noticia3{
-	flex: 1 1 auto;
-	background: red;
+	flex: 0 1 33%;
+	
 	height: 500px;
 }
 
@@ -143,4 +142,18 @@ nav ul li a:hover{
 
 .antiguos h3{
 	font-size: 30px;
+}
+
+img {
+	box-sizing: border-box;
+	width: 100%;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+
+	color:gray;
 }
