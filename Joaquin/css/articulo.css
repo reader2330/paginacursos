@@ -1,7 +1,7 @@
 *{
 	text-decoration: none;
 	margin:0px;
-	font-family: url('../FUENTES/Raleway-Regular.ttf');
+	font-family: rale;
 }
 
 header{
@@ -35,7 +35,7 @@ header{
 	color: #fff;
 	font-size: 36px;
 	text-decoration: none;
-	font-family: Raleway-Regular;
+	font-family: rale;
 }
 nav{
 	width: 70%;
@@ -66,7 +66,7 @@ nav ul li a:hover{
 
 h1{
 	margin-top: 20px;
-	font-family: 'Lobster', cursive;
+	font-family: rale;
 	margin-bottom: 20px;
 	text-align: center;
 }
@@ -188,11 +188,11 @@ h1{
 
 	.textconclu{
 		font-size: 25px;
-		font-family: 'Lato', sans-serif;
+		font-family: rale;
 	}
 
 .texto{
-	font-family: 'Roboto', sans-serif;
+	font-family: rale;
 	color:black;
 	font-size: 20px;
 	
