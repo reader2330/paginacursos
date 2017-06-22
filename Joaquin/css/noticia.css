@@ -30,7 +30,7 @@ header{
 	font-family: rale;
 }
 nav{
-	width: 70px;
+	width: 70p%;
 	height: 70px;
 	background: #1F9EEE;
 	float: right;
@@ -54,12 +54,12 @@ nav ul li a{
 	font-family: rale;	
 	src: url(../FUENTES/Raleway-Regular.ttf);
 } 
-
-@import url('data:application/octet-stream;base64,QGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdKdXJhJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDQwMDsKICBzcmM6IGxvY2FsKCdKdXJhIFJlZ3VsYXInKSwgbG9jYWwoJ0p1cmEtUmVndWxhcicpLCB1cmwoaHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL2p1cmEvdjgvQmFSVTNHU0lTREpXMm5JcWJ5c2JtZy50dGYpIGZvcm1hdCgndHJ1ZXR5cGUnKTsKfQo=');
+@import url('https://fonts.googleapis.com/css?family=Jura');
 *{
 	box-sizing: border-box;
 }
 h1, h2, h4, h5, h6{
+	/*text-transform: uppercase;*/
 	color: #444;
 	font-family: rale;
 	letter-spacing: 1px;
@@ -82,7 +82,7 @@ h4{
 	text-align: center;
 }
 h5{
-	font-family:  'Jura', sans-serif;
+	font-fami: 'Jura', sans-serif;
 	line-height: 1.5;
 	font-weight: normal;
 	padding: 10px 0;
