@@ -134,3 +134,69 @@ ul li{
 .nombre h2{
 	font-size: 20px;
 }
+/*
+h1, h2, h4, h5, h6{
+	text-transform: uppercase;
+	color: #444;
+	font-family: rale;
+	letter-spacing: 1px;
+}*/
+.art1{
+	font-size: 23px;
+	color: #333;
+}
+h3 {
+	font-family: 'Jura', sans-serif;
+	font-size: 20px;
+	line-height: 1.5;
+	padding-top: 20px;
+	font-weight: normal;
+	color: #777;
+}
+.art2{
+	margin-top: 15px;
+	font-size: 16px;
+}
+h5{
+	font-fami: 'Jura', sans-serif;
+	line-height: 1.5;
+	font-weight: normal;
+	padding: 10px 0;
+	font-size: 12px;
+}
+.art{
+	color: #888;
+	font-family: 'Jura', sans-serif;
+	font-size: 17px;
+}
+.wap2{
+	width: 70%;
+	margin: auto;
+}
+.bienvenidos{
+	margin-top: 50px;
+	text-align: center;
+}
+.contenedor-columnas{
+	width: 100%;
+	margin: auto;
+	margin-bottom: 50px;
+}
+.columnax3{
+	width: 33.333%;
+	float: left;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	margin: auto;
+}
+.columnax3 img{
+	width: 100%;
+}
+.columnax3 i{
+	float: left;
+	padding-right: 20px;
+	color: #444;
+}
+.columnax3 h4{
+	padding-bottom: 15px;
+}
